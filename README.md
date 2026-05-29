@@ -1,6 +1,6 @@
 ### Tecnologias:
-<img src="https://logodownload.org/wp-content/uploads/2019/02/microsoft-excel-logo.png" width="30" alt="Excel"> **Microsoft Excel**
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Canva_icon_2021.svg" width="30" alt="Canva"> **Canva**
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-Design-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
 # 🍎 Análise de Dados: Divino Pomar
 
