@@ -2,7 +2,7 @@
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-Design-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
-# 🍎 Análise de Dados: Divino Pomar
+# 🍎🌿🍊 Análise de Dados: Divino Pomar 
 
 Projeto de análise de dados focado na estruturação, tratamento e visualização de informações operacionais da **Divino Pomar**. O foco deste projeto foi transformar dados brutos e desorganizados em insights estratégicos através de um pipeline automatizado.
 
